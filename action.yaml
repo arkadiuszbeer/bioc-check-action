@@ -126,6 +126,8 @@ inputs:
     type: boolean
     default: false
 
+
+
 branding:
   icon: "arrow-down"
   color: "blue"
@@ -233,3 +235,4 @@ runs:
             echo "💚 BiocCheck status OK"
           fi
         shell: bash
+
